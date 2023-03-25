@@ -4,18 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d MyPortfolio"
+    "deploy": "gh-pages -d yPortfolio"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samuelfapohunda/MyPortfolio.git"
+    "url": "git+https://github.com/Samuelfapohunda/yPortfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Samuelfapohunda/MyPortfolio/issues"
+    "url": "https://github.com/Samuelfapohunda/myPortfolio/issues"
   },
-  "homepage": "https://github.com/Samuelfapohunda/MyPortfolio",
+  "homepage": "https://github.com/Samuelfapohunda/myPortfolio",
   "keywords": [],
   "dependencies": {
     "gh-pages": "^3.2.3"
