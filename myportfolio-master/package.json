@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d yPortfolio"
+    "deploy": "gh-pages -d myPortfolio"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samuelfapohunda/yPortfolio.git"
+    "url": "git+https://github.com/Samuelfapohunda/myPortfolio"
   },
   "author": "",
   "license": "ISC",
